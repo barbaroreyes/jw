@@ -4,7 +4,6 @@
 @media(max-width:768px) {
   .home{
     border: 1px solid black;
-    
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -17,7 +16,7 @@
     flex-direction: column;
     align-items:center;
     border: 1px solid black;
-    margin-top: 100px;
+    margin-top: 200px;
   }.nav-circle{
     width: 100px;
     height: 100px;
