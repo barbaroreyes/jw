@@ -3,7 +3,9 @@ import React from 'react'
 const NavMovil = () => {
   return (
     <div className="nav-circle">
-      navMOvil
+     <div className="line"></div>
+     <div className="line"></div>
+     <div className="line"></div>
     </div>
   )
 }
