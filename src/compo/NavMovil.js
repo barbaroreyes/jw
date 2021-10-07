@@ -1,0 +1,11 @@
+import React from 'react'
+
+const NavMovil = () => {
+  return (
+    <div>
+      navMOvil
+    </div>
+  )
+}
+
+export default NavMovil
