@@ -2,7 +2,7 @@ import React from 'react'
 
 const NavMovil = () => {
   return (
-    <div>
+    <div className="nav-circle">
       navMOvil
     </div>
   )

@@ -2,9 +2,9 @@ import React from 'react'
 import NavMovil from './NavMovil'
 const Header = () => {
   return (
-    <div>
+    <header >
       <NavMovil />
-    </div>
+    </header>
   )
 }
 
