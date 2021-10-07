@@ -1,13 +1,15 @@
 .App {
   text-align: center;
+  background-color: black;
 }
 @media(max-width:768px) {
   .home{
-    border: 1px solid black;
+    /* border: 1px solid black; */
     display: flex;
     flex-direction: column;
     align-items: center;
     padding: 10px;
+
   
   }header{
     width: 100%;
@@ -15,12 +17,12 @@
     justify-content: center;
     flex-direction: column;
     align-items:center;
-    border: 1px solid black;
+    /* border: 1px solid black; */
     margin-top: 200px;
   }.nav-circle{
     width: 100px;
     height: 100px;
-    border: 1px solid black;
+    border: 1px solid#fff;
     border-radius: 50px 50px;
     display: flex;
     justify-content: center;
@@ -28,7 +30,7 @@
   align-items: center;
   }.line{
     width: 60px;
-    border-bottom: 2px solid black;
+    border-bottom: 2px solid #ffff;
     margin: 5px;
 
     }
